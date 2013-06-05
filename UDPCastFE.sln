@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPCastSFE", "UDPCastFE\UDPCastSFE.csproj", "{F5512D01-ED93-438C-8E21-B38781B4A6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPCastCFE", "UDPCastCFE\UDPCastCFE.csproj", "{0BE17E0B-5068-4E81-8BA8-749D34977F24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5512D01-ED93-438C-8E21-B38781B4A6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5512D01-ED93-438C-8E21-B38781B4A6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5512D01-ED93-438C-8E21-B38781B4A6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5512D01-ED93-438C-8E21-B38781B4A6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE17E0B-5068-4E81-8BA8-749D34977F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE17E0B-5068-4E81-8BA8-749D34977F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE17E0B-5068-4E81-8BA8-749D34977F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE17E0B-5068-4E81-8BA8-749D34977F24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

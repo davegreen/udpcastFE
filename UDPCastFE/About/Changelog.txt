@@ -1,0 +1,36 @@
+﻿UDPcast Sender Frontend Changelog
+---------------------------------
+
+28/10/2010: v0.18
+-Added ability to multicast folders (compress, multicast, uncompress) using zip compression.
+-Folder multicasting still uses '-f' or '--file' from the command line.
+
+26/04/2010: v0.17
+-Added '-f' argument to enable a file to be specified on launch.
+-Code cleanup.
+
+21/04/2010: v0.16
+-Embedded Help and Changelog into the executable.
+
+19/04/2010: v0.15
+-Added Proper interface selection to be passed to udpcast.
+-Added 'Clear Settings' option.
+
+13/04/2010: v0.14
+-Added event control to stop accidental exit when clients are connected.
+
+12/04/2010: v0.13.1
+-Changed the form layout to make navigation easier.
+
+07/04/2010: v0.13
+-Improved client disconnect logic and collection of dead sockets.
+
+07/04/2010: v0.12
+-Improved error detection and logging.
+
+06/04/2010: v0.11
+-Added persistent user settings for 'Full Duplex', 'Auto Start' and 'Use Second Interface'.
+-Added this Changelog + Help.txt.
+
+06/04/2010: v0.1
+-First working version.
